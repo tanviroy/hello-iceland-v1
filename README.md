@@ -1,4 +1,4 @@
-# Iceland v1 ✈️ ⭐  
+# Iceland v1 ✈️  ⭐  
 #### Date of completion: 12th June 2020
 #### Note: This is a Work In Progress.
 [https://maurer-rose.netlify.app/](https://maurer-rose.netlify.app/)
